@@ -1,6 +1,6 @@
 
 # Saliency Detection by Forward and Backward Cues in Deep-CNN, IEEE ICIP 2017
-# REvised code for the top-down saliency computation part
+# Revised code for the top-down saliency computation part
 import chainer
 import numpy as np
 import cv2 as cv
