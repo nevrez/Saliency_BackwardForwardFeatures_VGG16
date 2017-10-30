@@ -18,7 +18,7 @@ The saliency computation code here can be run just CPU without the need of GPU; 
      ```
      $ wget https://www.dropbox.com/s/oubwxgmqzep24yq/VGG.model?dl=0 -O VGG.model
      ```
-* if you want to check saliency without center bias, just remove the "mask" variable maultiplication in line 131      
+* if you want to check saliency without center bias, just remove the "mask" variable multiplication in line 131      
 
 ## Run the code:
 
