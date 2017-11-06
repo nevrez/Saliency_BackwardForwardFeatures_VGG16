@@ -8,7 +8,7 @@ import cPickle as pickle
 from PIL import Image
 import os
 
-from chainer import cuda
+#from chainer import cuda
 from chainer import serializers
 from chainer import Variable
 import chainer.functions as F
