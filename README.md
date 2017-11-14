@@ -25,3 +25,6 @@ The saliency computation code here can be run just CPU without the need of GPU; 
 ```
 $ python main_Saliency.py
 ```
+
+
+DISCLAIMER: The codes here are provided only for evaluation of the algorithm. Neither the authors of the codes, nor affiliations of the authors can be held responsible for any damages arising out of using this code in any manner. Please use the code at your own risk.
