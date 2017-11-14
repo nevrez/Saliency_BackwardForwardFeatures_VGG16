@@ -1,6 +1,6 @@
 # Saliency_BackwardForwardFeatures_VGG16
 
-### Saliency Detection by Forward and Backward Cues in Deep-CNN, IEEE ICIP 2017
+### Saliency Detection by Forward and Backward Cues in Deep-CNN
 
 These codes here are revised version of the top-down saliency part of the work "Saliency Detection by Forward and Backward Cues in Deep-CNN,  IEEE ICIP 2017", which can be accessed from [here](https://arxiv.org/abs/1703.00152). 
 
