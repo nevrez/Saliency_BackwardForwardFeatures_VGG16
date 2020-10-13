@@ -2,6 +2,8 @@
 
 ### Saliency Detection by Forward and Backward Cues in Deep-CNN
 
+![fig:icip2017_figure-method](https://github.com/nevrez/Saliency_BackwardForwardFeatures_VGG16/blob/master/images/icip2017fig-method.png "figure-method")  
+
 These codes here are revised version of the top-down saliency part of the work "Saliency Detection by Forward and Backward Cues in Deep-CNN,  IEEE ICIP 2017", which can be accessed from [here](https://arxiv.org/abs/1703.00152). 
 
 The saliency computation code here can be run just CPU without the need of GPU; however, it is also tested by Nvidia GTX 970 GPU with Nvidia Driver 375.82 and Cuda-8.0 on Ubuntu 14 LTS environment. Chainer 1.21.0 version is used as the deep learning tool for this application. 
@@ -26,5 +28,6 @@ The saliency computation code here can be run just CPU without the need of GPU; 
 $ python main_Saliency.py
 ```
 
+![fig:icip2017_figure-results](https://github.com/nevrez/Saliency_BackwardForwardFeatures_VGG16/blob/master/images/icip2017fig-results.png "figure-results")  
 
 DISCLAIMER: The codes here are provided only for evaluation of the algorithm. Neither the authors of the codes, nor affiliations of the authors can be held responsible for any damages arising out of using this code in any manner. Please use the code at your own risk.
